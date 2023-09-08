@@ -1,0 +1,3 @@
+[backend]
+baseurl = "https://www.bsrserver.org.cn:8443/api"
+securedClientKey = "key"
